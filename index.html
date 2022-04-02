@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+  <html lang="RU">
+    <head>
+      <!--meta-->
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="author" content="KartofanTHEME">
+      <!--icon-->
+      <link rel="icon" href="../images/logo.png">
+      <!--title and description, change if it necessary-->
+      <title>kTH-Studio</title>
+      <meta name="description" content="">
+      <!--style-->
+      <link href="../css/bootstrap.min.css" rel="stylesheet">
+      <link href="../css/styles.css" rel="stylesheet">
+      <link rel="stylesheet" href="../css/media.css" media="all and (max-width: 900px)">
+      <!--scripts-->
+      <script src="../js/script.js" defer></script>
+      <script src="../assets/js/ie-emulation-modes-warning.js"></script>
+    </head>
+    <body>
+    <!--navbar-->
+      <div class="navbar-wrapper">
+        <div class="container">
+          <div class="navbar navbar-default navbar-static-top" role="navigation">
+            <div class="container">
+              <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">kTH-Studio</a>
+              </div>
+              <!--links-->
+              <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                  <li class="active"><a href="index.html" class="lang" key="home">Главная</a></li>
+                  <li><a href="store.html" class="lang" key="store">Магазин</a></li>
+                  <li><a href="about.html" class="lang" key="about">О компании</a></li>
+                  <!--dropdown-->
+                  <li class="dropdown">
+                    <a href="index.html" class="dropdown-toggle" data-toggle="dropdown"><span class="lang" key="language">Язык</span> <span class="caret"></span></a>
+                    <ul class="dropdown-menu" role="menu">
+                      <li class="header-title-item-lang header-title-item-lang-ru"><a id="ru" class="translate"><span class="lang" key="russian">Русский</span></a></li>
+                      <li class="header-title-item-lang header-title-item-lang-en"><a id="en" class="translate"><span class="lang" key="english">English (Англйский)</span></a></li>
+                      <li class="divider"></li>
+                      <li><a href="mailto:kartofantheme@gmail.com?subject=Помощь с переводом"><span class="lang" key="translate_help">Помогите нам с переводом сайта</span></a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--carousel-->
+      <!--slides-->
+      <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="index.html" data-slide-to="0" class="active"></li>
+          <li data-target="index.html" data-slide-to="1"></li>
+          <!--insert the block below if necessary-->
+          <!--<li data-target="index.html" data-slide-to="2"></li>-->
+        </ol>
+        <div class="carousel-inner">
+        	<!--first slide-->
+          <div class="item active">
+            <img src="../images/hat.jpeg" alt="First slide">
+            <div class="container">
+              <div class="carousel-caption">
+                <h1>kTH-Online</h1>
+                <p><div class="lang" key="about_kth1">Онлайн мессенджер, написанный русскими программистами из </div><code>kTH-Studio</code><br><div class="lang" key="about_kth2">Релиз состоится 2 июня 2022 года</div></p>
+                <p><a class="lang btn btn-lg btn-primary" key="product" href="kTH-Online.html" role="button">На страницу товара</a></p>
+              </div>
+            </div>
+          </div>
+          <!--second slide-->
+          <div class="item">
+            <img src="../images/hat.jpeg" alt="Second slide">
+            <div class="container">
+              <div class="carousel-caption">
+                <h1 class="lang" key="develop">Генератор ключей уже доступен для скачивания!</h1>
+                <p></p>
+                <p><a class="lang btn btn-lg btn-primary" href="keys.html" role="button" key="help">Скачать</a></p>
+              </div>
+            </div>
+          </div>
+          <!--insert the block below if necessary-->
+          <!--<div class="item">
+            <img src="../images/hat.jpeg" alt="Second slide">
+            <div class="container">
+              <div class="carousel-caption">
+                <h1 class="lang" key="develop">Генератор ключей уже доступен для скачивания!</h1>
+                <p></p>
+                <p><a class="lang btn btn-lg btn-primary" href="keys.html" role="button" key="help">Скачать</a></p>
+              </div>
+            </div>
+          </div>-->
+        </div>
+        <!--"previous" and "next" buttons-->
+        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+          <span class="glyphicon glyphicon-chevron-left"></span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+          <span class="glyphicon glyphicon-chevron-right"></span>
+        </a>
+      </div>
+      <!--footer-->
+      <div class="page-header"></div>
+      <footer>
+        <p>&copy; 2018-<!--change year then it necessary-->2021 kTH-Studio &middot; 
+          <a href="policy.html" class="lang" key="policy">Политика конфиденциальности</a> &middot; 
+          <a href="user_agreement.html" class="lang" key="user_agreement">Соглашение подписчика kTH-Studio</a>
+        </p>
+      </footer>
+      <!--footer-->
+      <!--scripts-->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+      <script src="../js/bootstrap.min.js"></script>
+      <script src="../js/docs.min.js"></script>
+      <script src="../assets/js/ie10-viewport-bug-workaround.js"></script>
+      <!--scripts-->
+    </body>
+</html>
