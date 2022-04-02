@@ -18,8 +18,8 @@ var arrLang = {
     'user_agreement': 'kTH-Studio User Agreement',
 
     'product': 'To the product page',
-    'about_kth1': 'An online messenger written by Russian programmers from ',
-    'about_kth2': 'Release date: 2 jun, 2022',
+    'about_kth1': 'An online messenger',
+    'about_kth2': 'Release date: Q1-Q2, 2023',
     'develop': 'Keys Generator is already available for download!',
     'help': 'Download Now',
     'act': 'Do you like our activities?',
@@ -55,7 +55,7 @@ var arrLang = {
     'win': 'Windows',
     'mac': 'MacOS',
 
-    '2jun2022': '2 Jun, 2022',
+    '2jun2022': 'Q1-Q2, 2023',
     '25oct2021': '25 Oct, 2021',
     '10nov2021': '10 Nov, 2021',
 
@@ -112,8 +112,8 @@ var arrLang = {
     'user_agreement': 'Соглашение подписчика kTH-Studio',
 
     'product': 'На страницу товара',
-    'about_kth1': 'Онлайн мессенджер, написанный русскими программистами из ',
-    'about_kth2': 'Релиз состоится 2 июня 2022 года',
+    'about_kth1': 'Онлайн мессенджер',
+    'about_kth2': 'Релиз состоится в первой половине 2023 года',
     'develop': 'Генератор ключей уже доступен для скачивания!',
     'help': 'Скачать',
     'act': 'Вам нравится наша деятельность?',
@@ -149,7 +149,7 @@ var arrLang = {
     'win': 'Windows',
     'mac': 'MacOS',
 
-    '2jun2022': '2 июн, 2022',
+    '2jun2022': 'Q1-Q2, 2023',
     '25oct2021': '25 окт, 2021',
     '10nov2021': '10 ноя, 2021',
 
