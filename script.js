@@ -51,9 +51,9 @@ var arrLang = {
     'developer': 'Developer: ',
     'publisher': 'Publisher: ',
 
-    'and': 'Android',
-    'win': 'Windows',
-    'mac': 'MacOS',
+    'and': 'Android-Version',
+    'win': 'Windows-Version',
+    'mac': 'MacOS-Version',
 
     '2jun2022': 'Q1-Q2, 2023',
     '25oct2021': '25 Oct, 2021',
@@ -145,9 +145,9 @@ var arrLang = {
     'developer': 'Разработчик: ',
     'publisher': 'Издатель: ',
 
-    'and': 'Android',
-    'win': 'Windows',
-    'mac': 'MacOS',
+    'and': 'Android-Версия',
+    'win': 'Windows-Версия',
+    'mac': 'MacOS-Версия',
 
     '2jun2022': 'Q1-Q2, 2023',
     '25oct2021': '25 окт, 2021',
