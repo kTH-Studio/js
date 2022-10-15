@@ -102,7 +102,7 @@ var arrLang = {
 
     'Musicinfo': 'Unfortunately, we had to raise the bar, and now the minimum supported version of Android is 6.0. But this is a temporary solution to avoid errors, crashes and system breakdowns. We hope for your understanding. Your kTH-Studio.',
     'Musicinfo1': 'Some things don\'t work in version 1.0.9. In the next update, we will return the functionality to them so that you can use the application comfortably.',
-    'Musicinfo2': 'What\'s new in version 1.0.9?<br>· Now you can rewind songs, is it cool?<br>· The interface has been improved, now it has become much more convenient to use the application<br>· Improved app stability<br>· Added icons indicating profanity in the content<br>· Added a content limiter (does not work completely)',
+    'Musicinfo2': 'What\'s new in version 1.0.9?\n· Now you can rewind songs, is it cool?\n· The interface has been improved, now it has become much more convenient to use the application\n· Improved app stability<br>· Added icons indicating profanity in the content\n· Added a content limiter (does not work completely)',
   },
   'ru': {
   	'home': 'Главная',
@@ -197,6 +197,10 @@ var arrLang = {
     'addkth': 'Нужен рабочий номер телефона для активации и входа в аккаунт. На один номер телефона можно зарегестрировать ТОЛЬКО один аккаунт.',
     'addreg': 'Требуется дополнительная регистрация',
     'sexualcont': 'Это приложение может содержать контент, не подходящий для всех возрастов: Контент для взрослых',
+
+    'Musicinfo': 'К сожалению, пришлось поднять планку, и теперь минимальная поддерживаемая версия Android: 6.0. Но это временное решение во избежании ошибок, вылетов и поломки системы. Надеемся на ваше понимание. Ваша kTH-Studio.',
+    'Musicinfo1': 'Некоторые вещи в версии 1.0.9 не работают. В следующем обновлении мы вернем им функционал, чтобы вы пользовались приложением с комфортом.',
+    'Musicinfo2': 'Что нового в версии 1.0.9?\n· Теперь можно перематывать песни, круто же?\n· Улучшен интерфейс, теперь пользоваться приложением стало намного удобнее\n· Улучшена стабильность приложения\n· Добавлены значки, обозначающие ненормативную лексику в контенте\n· Добавлен ограничитель контента (работает не полностью)',
     }
 }
 
