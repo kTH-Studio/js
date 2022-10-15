@@ -40,6 +40,8 @@ var arrLang = {
     'app1': 'App',
     'online1': 'Online',
     'offline1': 'Offline',
+    'music1': 'Music',
+    'karaoke': 'Karaoke',
     'messenger1': 'Messenger',
     'generator1': 'Generator',
 
@@ -64,6 +66,8 @@ var arrLang = {
 
     'ktho_info': 'An online messenger for communicating around the world with friends and family.',
     'kg_info': 'An application that generates keys (passwords) for various purposes, for example, to protect an account or create licenses',
+    'music_info': 'Listen to music, read lyrics like in karaoke. Without any subscriptions.',
+    'partly':'Partly'
 
    'languages': 'Languages:',
     'interface': 'Interface',
@@ -138,6 +142,8 @@ var arrLang = {
     'app1': 'Приложение',
     'online1': 'Онлайн',
     'offline1': 'Оффлайн',
+    'music1': 'Музыка',
+    'karaoke': 'Караоке',
     'messenger1': 'Мессенджер',
     'generator1': 'Генератор',
 
@@ -162,6 +168,8 @@ var arrLang = {
 
     'ktho_info': 'Онлайн мессенджер для общения по всему миру с друзьями и близкими.',
     'kg_info': 'Приложение, генерирующее ключи (пароли) для разных целей, например для защиты аккаунта или создания лицензий',
+    'music_info': 'Слушайте музыку, читайте тексты, как в караоке. Без всяких подписок.',
+    'partly':'Частично',
 
     'languages': 'Языки:',
     'interface': 'Интерфейс',
