@@ -99,6 +99,10 @@ var arrLang = {
     'addkth': 'You need a working phone number to activate and log in to your account. ONLY one account can be registered for one phone number.',
     'addreg': 'Additional registration required',
     'sexualcont': 'This app may contain content not suitable for all ages: Adult Content',
+
+    'Musicinfo': 'Unfortunately, we had to raise the bar, and now the minimum supported version of Android is 6.0. But this is a temporary solution to avoid errors, crashes and system breakdowns. We hope for your understanding. Your kTH-Studio.',
+    'Musicinfo1': 'Some things don\'t work in version 1.0.9. In the next update, we will return the functionality to them so that you can use the application comfortably.',
+    'Musicinfo2': 'What\'s new in version 1.0.9?<br>· Now you can rewind songs, is it cool?<br>· The interface has been improved, now it has become much more convenient to use the application<br>· Improved app stability<br>· Added icons indicating profanity in the content<br>· Added a content limiter (does not work completely)',
   },
   'ru': {
   	'home': 'Главная',
