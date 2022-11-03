@@ -67,9 +67,9 @@ var arrLang = {
     'ktho_info': 'An online messenger for communicating around the world with friends and family.',
     'kg_info': 'An application that generates keys (passwords) for various purposes, for example, to protect an account or create licenses',
     'music_info': 'Listen to music, read lyrics like in karaoke. Without any subscriptions.',
-    'partly':'Partly'
+    'partly':'Partly',
 
-   'languages': 'Languages',
+    'languages': 'Languages:',
     'interface': 'Interface',
     'full_audio': 'Full Audio',
     'subtitles': 'Subtitles',
