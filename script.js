@@ -69,7 +69,7 @@ var arrLang = {
     'music_info': 'Listen to music, read lyrics like in karaoke. Without any subscriptions.',
     'partly':'Partly'
 
-   'languages': 'Languages:',
+   'languages': 'Languages',
     'interface': 'Interface',
     'full_audio': 'Full Audio',
     'subtitles': 'Subtitles',
