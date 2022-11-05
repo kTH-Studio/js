@@ -106,7 +106,7 @@ var arrLang = {
 
     'Musicinfo': 'Unfortunately, we had to raise the bar, and now the minimum supported version of Android is 6.0. But this is a temporary solution to avoid errors, crashes and system breakdowns. We hope for your understanding. Your kTH-Studio.',
     'Musicinfo1': 'Some things don\'t work in version 1.0.9. In the next update, we will return the functionality to them so that you can use the application comfortably.',
-    'Musicinfo2': 'What\'s new in version 1.0.10?\n-Added German (partially)\n-Added rewinding of tracks\n-Added the function of switching to other songs\n-Updated the interface, now the application has become easier to use!\n-Performance optimization\n-Tabs "Artist" and "Album" have become more informative\n-Added support for animated pictures\n-Improved the quality of the sound played',
+    'Musicinfo2': 'What\'s new in version 1.0.10?\n -Added German (partially)\n -Added rewinding of tracks\n -Added the function of switching to other songs\n -Updated the interface, now the application has become easier to use!\n -Performance optimization\n -Tabs "Artist" and "Album" have become more informative\n -Added support for animated pictures\n -Improved the quality of the sound played',
   },
   'ru': {
   	'home': 'Главная',
@@ -208,7 +208,7 @@ var arrLang = {
 
     'Musicinfo': 'К сожалению, пришлось поднять планку, и теперь минимальная поддерживаемая версия Android: 6.0. Но это временное решение во избежании ошибок, вылетов и поломки системы. Надеемся на ваше понимание. Ваша kTH-Studio.',
     'Musicinfo1': 'Некоторые вещи в версии 1.0.9 не работают. В следующем обновлении мы вернем им функционал, чтобы вы пользовались приложением с комфортом.',
-    'Musicinfo2': 'Что нового в версии 1.0.10?\n-Добавлен Немецкий язык (частично)\n-Добавлена перемотка треков\n-Добавлена функция перехода к другим песням\n-Обновлен интерфейс, теперь приложением стало пользоваться проще!\n-Оптимизация производительности\n-Вкладки "Артист" и "Альбом" стали более информативными\n-Добавлена поддержка анимированных картинок\n-Улучшено качество воспроизводимого звука',
+    'Musicinfo2': 'Что нового в версии 1.0.10?\n -Добавлен Немецкий язык (частично)\n -Добавлена перемотка треков\n -Добавлена функция перехода к другим песням\n -Обновлен интерфейс, теперь приложением стало пользоваться проще!\n -Оптимизация производительности\n -Вкладки "Артист" и "Альбом" стали более информативными\n -Добавлена поддержка анимированных картинок\n -Улучшено качество воспроизводимого звука',
     }
 }
 
