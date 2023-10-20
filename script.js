@@ -64,6 +64,11 @@ var arrLang = {
     'results': 'Showing 1-2 of 2',
     'results1': '',
 
+	  '25oct2022': '25 Oct, 2022',
+	  'music': 'Music',
+	  'music_info': 'Listen to your favorite tracks in one app!',
+	  'player': 'Music Player',
+
     'ktho_info': 'An online messenger for communicating around the world with friends and family.',
     'kg_info': 'An application that generates keys (passwords) for various purposes, for example, to protect an account or create licenses',
     'music_info': 'Listen to music. Without any subscriptions.',
@@ -163,6 +168,11 @@ var arrLang = {
     '25oct2021': '25 окт, 2021',
     '10nov2021': '10 ноя, 2021',
 
+'25oct2022': '25 окт, 2022',
+	  'music': 'Музыка',
+	  'music_info': 'Слушайте свои любимые треки в одном приложении!',
+	  'player': 'Музыкальный плеер',
+	  
     'results': 'Результаты 1-2 из 2',
     'results1': '',
 
