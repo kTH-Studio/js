@@ -71,7 +71,6 @@ var arrLang = {
 
     'ktho_info': 'An online messenger for communicating around the world with friends and family.',
     'kg_info': 'An application that generates keys (passwords) for various purposes, for example, to protect an account or create licenses',
-    'music_info': 'Listen to music. Without any subscriptions.',
     'partly':'Partly',
 
     'languages': 'Languages:',
@@ -178,8 +177,7 @@ var arrLang = {
 
     'ktho_info': 'Онлайн мессенджер для общения по всему миру с друзьями и близкими.',
     'kg_info': 'Приложение, генерирующее ключи (пароли) для разных целей, например для защиты аккаунта или создания лицензий',
-    'music_info': 'Слушайте музыку. Без всяких подписок.',
-    'partly':'Частично',
+ 'partly':'Частично',
 
     'languages': 'Языки:',
     'interface': 'Интерфейс',
