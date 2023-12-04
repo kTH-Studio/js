@@ -111,7 +111,7 @@ var arrLang = {
     'sexualcont': 'This app may contain content not suitable for all ages: Adult Content',
 
 	  'upd_ver': 'Update 2.2',
-	  'app_upd': '- Fixed known bugs<br>- Updated application themes<br>- Now when installing Explicit content, the application will request validation by fingerprint/PIN code<br>- Added viewing track information through the album page<br>- Added a page with information about artists',
+	  'app_upd': '- Fixed known bugs\n\n- Updated application themes\n\n- Now when installing Explicit content, the application will request validation by fingerprint/PIN code\n\n- Added viewing track information through the album page\n\n- Added a page with information about artists',
 
     'Musicinfo': 'Unfortunately, we had to raise the bar, and now the minimum supported version of Android is 6.0. But this is a temporary solution to avoid errors, crashes and system breakdowns. We hope for your understanding. Your kTH-Studio.',
     'Musicinfo1': 'Some things don\'t work in version 1.0.9. In the next update, we will return the functionality to them so that you can use the application comfortably.',
@@ -222,7 +222,7 @@ var arrLang = {
     'sexualcont': 'Это приложение может содержать контент, не подходящий для всех возрастов: Контент для взрослых',
 
 'upd_ver': 'Обновление 2.2',
-	  'app_upd': '- Исправлены известные ошибки<br>- Обновлены темы приложения<br>- Теперь при установке Откровенного контента приложение запросит валидацию по отпечатку пальца/пин-коду<br>- Добавлен просмотр информации по треку через страницу альбома<br>- Добавлена страница с информацией об исполнителях',
+	  'app_upd': '- Исправлены известные ошибки\n\n- Обновлены темы приложения\n\n- Теперь при установке Откровенного контента приложение запросит валидацию по отпечатку пальца/пин-коду\n\n- Добавлен просмотр информации по треку через страницу альбома\n\n- Добавлена страница с информацией об исполнителях',
 	  
     'Musicinfo': 'К сожалению, пришлось поднять планку, и теперь минимальная поддерживаемая версия Android: 6.0. Но это временное решение во избежании ошибок, вылетов и поломки системы. Надеемся на ваше понимание. Ваша kTH-Studio.',
     'Musicinfo1': 'Некоторые вещи в версии 1.0.9 не работают. В следующем обновлении мы вернем им функционал, чтобы вы пользовались приложением с комфортом.',
