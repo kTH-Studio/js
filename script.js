@@ -49,7 +49,8 @@ var arrLang = {
 
     'free': 'Free',
 
-    'release': 'Release Date: ',
+    'release': 'Release Date: ',  
+    'update': 'Latest update: ',
     'developer': 'Developer: ',
     'publisher': 'Publisher: ',
 
@@ -60,6 +61,7 @@ var arrLang = {
     '2jun2022': 'Q1-Q2, 2023',
     '25oct2021': '25 Oct, 2021',
     '10nov2021': '10 Nov, 2021',
+    '4dec2023': '4 Dec, 2023',
 
     'results': 'Showing 1-2 of 2',
     'results1': '',
@@ -107,6 +109,9 @@ var arrLang = {
     'addkth': 'You need a working phone number to activate and log in to your account. ONLY one account can be registered for one phone number.',
     'addreg': 'Additional registration required',
     'sexualcont': 'This app may contain content not suitable for all ages: Adult Content',
+
+	  'upd_ver': 'Update 2.2',
+	  'app_upd': '- Fixed known bugs\n- Updated application themes\n- Now when installing Explicit content, the application will request validation by fingerprint/PIN code\n- Added viewing track information through the album page\n- Added a page with information about artists',
 
     'Musicinfo': 'Unfortunately, we had to raise the bar, and now the minimum supported version of Android is 6.0. But this is a temporary solution to avoid errors, crashes and system breakdowns. We hope for your understanding. Your kTH-Studio.',
     'Musicinfo1': 'Some things don\'t work in version 1.0.9. In the next update, we will return the functionality to them so that you can use the application comfortably.',
@@ -156,6 +161,7 @@ var arrLang = {
     'free': 'Бесплатно',
 
     'release': 'Дата выхода: ',
+    'update': 'Последнее обновление: ',
     'developer': 'Разработчик: ',
     'publisher': 'Издатель: ',
 
@@ -166,6 +172,7 @@ var arrLang = {
     '2jun2022': 'Q1-Q2, 2023',
     '25oct2021': '25 окт, 2021',
     '10nov2021': '10 ноя, 2021',
+    '4dec2023': '4 дек, 2023',
 
 '25oct2022': '25 окт, 2022',
 	  'music': 'Музыка',
@@ -214,6 +221,9 @@ var arrLang = {
     'addreg': 'Требуется дополнительная регистрация',
     'sexualcont': 'Это приложение может содержать контент, не подходящий для всех возрастов: Контент для взрослых',
 
+'upd_ver': 'Обновление 2.2',
+	  'app_upd': '- Исправлены известные ошибки\n- Обновлены темы приложения\n- Теперь при установке Откровенного контента прилодение запросит валидацию по отпечатку пальца/пин-коду\n- Добавлен просмотр информации по треку через страницу альбома\n- Добавлена страница с информацией об исполнителях',
+	  
     'Musicinfo': 'К сожалению, пришлось поднять планку, и теперь минимальная поддерживаемая версия Android: 6.0. Но это временное решение во избежании ошибок, вылетов и поломки системы. Надеемся на ваше понимание. Ваша kTH-Studio.',
     'Musicinfo1': 'Некоторые вещи в версии 1.0.9 не работают. В следующем обновлении мы вернем им функционал, чтобы вы пользовались приложением с комфортом.',
     'Musicinfo2': 'Что нового в версии 1.0.10?\n -Добавлен Немецкий язык (частично)\n -Добавлена перемотка треков\n -Добавлена функция перехода к другим песням\n -Обновлен интерфейс, теперь приложением стало пользоваться проще!\n -Оптимизация производительности\n -Вкладки "Артист" и "Альбом" стали более информативными\n -Добавлена поддержка анимированных картинок\n -Улучшено качество воспроизводимого звука',
